@@ -1,0 +1,11 @@
+C:\Users\jbenk\Desktop\bootcamp2019\RegExpressLab\bin\Debug\netcoreapp3.0\RegExpressLab.exe
+C:\Users\jbenk\Desktop\bootcamp2019\RegExpressLab\bin\Debug\netcoreapp3.0\RegExpressLab.deps.json
+C:\Users\jbenk\Desktop\bootcamp2019\RegExpressLab\bin\Debug\netcoreapp3.0\RegExpressLab.runtimeconfig.json
+C:\Users\jbenk\Desktop\bootcamp2019\RegExpressLab\bin\Debug\netcoreapp3.0\RegExpressLab.runtimeconfig.dev.json
+C:\Users\jbenk\Desktop\bootcamp2019\RegExpressLab\bin\Debug\netcoreapp3.0\RegExpressLab.dll
+C:\Users\jbenk\Desktop\bootcamp2019\RegExpressLab\bin\Debug\netcoreapp3.0\RegExpressLab.pdb
+C:\Users\jbenk\Desktop\bootcamp2019\RegExpressLab\obj\Debug\netcoreapp3.0\RegExpressLab.csprojAssemblyReference.cache
+C:\Users\jbenk\Desktop\bootcamp2019\RegExpressLab\obj\Debug\netcoreapp3.0\RegExpressLab.AssemblyInfoInputs.cache
+C:\Users\jbenk\Desktop\bootcamp2019\RegExpressLab\obj\Debug\netcoreapp3.0\RegExpressLab.AssemblyInfo.cs
+C:\Users\jbenk\Desktop\bootcamp2019\RegExpressLab\obj\Debug\netcoreapp3.0\RegExpressLab.dll
+C:\Users\jbenk\Desktop\bootcamp2019\RegExpressLab\obj\Debug\netcoreapp3.0\RegExpressLab.pdb
